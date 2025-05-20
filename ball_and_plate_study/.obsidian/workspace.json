@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "a93b6a6346a25ee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2510e85332e025e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dbaca31bce3ce64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arduino/3. 엔코더 모터.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 엔코더 모터"
+            }
+          },
+          {
+            "id": "6b16cac1bf16f203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-20"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "356a7cf7ca8c7d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f13b3afd3f4d904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc16939b80af000",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ab04c63b5a57ad1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "7fca15f6ca31be70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fa77d3f15e411ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b4d690c2541581e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c4da0c69df0ce4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-05-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-05-20 의 백링크"
+            }
+          },
+          {
+            "id": "caf63be95a7e9f9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-05-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-05-20 의 나가는 링크"
+            }
+          },
+          {
+            "id": "7657e13ea9c7e763",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "2dfda53ad07af5d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-05-20.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-05-20 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6b16cac1bf16f203",
+  "lastOpenFiles": [
+    "Arduino/1. L298N.md",
+    "2025-05-20.md",
+    "Arduino/3. 엔코더 모터.md",
+    "image/Pasted image 20250520150044.png",
+    "image/Pasted image 20250520150003.png",
+    "image/Pasted image 20250520145925.png",
+    "image/Pasted image 20250520145915.png",
+    "image/Pasted image 20250520145854.png",
+    "Arduino/2. L298로 DC 모터 제어하기.md",
+    "image/Pasted image 20250520145046.png",
+    "Arduino/엔코더 모터.md",
+    "image/Pasted image 20250520144700.png",
+    "image/Pasted image 20250520144551.png",
+    "image/Pasted image 20250520144129.png",
+    "image/Pasted image 20250520144038.png",
+    "ball and plate/개요.md",
+    "image",
+    "ball and plate",
+    "Arduino"
+  ]
+}
