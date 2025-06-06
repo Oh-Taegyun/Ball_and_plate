@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-20.md",
+                "file": "Arduino/1. L298N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20"
+              "title": "1. L298N"
+            }
+          },
+          {
+            "id": "54fea3b67838aa75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arduino/4. MPU 6050.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. MPU 6050"
+            }
+          },
+          {
+            "id": "4083e9e4e9ebc5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arduino/3. 엔코더 모터.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 엔코더 모터"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-05-20.md",
+                "file": "ball and plate/개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-05-20 의 백링크"
+              "title": "개요 의 백링크"
             }
           },
           {
@@ -157,21 +185,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-20.md",
+                "file": "Arduino/3. 엔코더 모터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-20 의 개요"
+              "title": "3. 엔코더 모터 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,24 +211,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b16cac1bf16f203",
+  "active": "4083e9e4e9ebc5cd",
   "lastOpenFiles": [
+    "Arduino/4. MPU 6050.md",
+    "5..md",
     "Arduino/1. L298N.md",
-    "2025-05-20.md",
+    "Arduino/2. L298로 DC 모터 제어하기.md",
     "Arduino/3. 엔코더 모터.md",
+    "2025-05-20.md",
+    "ball and plate/개요.md",
+    "image/Pasted image 20250604165013.png",
     "image/Pasted image 20250520150044.png",
     "image/Pasted image 20250520150003.png",
     "image/Pasted image 20250520145925.png",
     "image/Pasted image 20250520145915.png",
     "image/Pasted image 20250520145854.png",
-    "Arduino/2. L298로 DC 모터 제어하기.md",
     "image/Pasted image 20250520145046.png",
     "Arduino/엔코더 모터.md",
     "image/Pasted image 20250520144700.png",
     "image/Pasted image 20250520144551.png",
     "image/Pasted image 20250520144129.png",
-    "image/Pasted image 20250520144038.png",
-    "ball and plate/개요.md",
     "image",
     "ball and plate",
     "Arduino"
