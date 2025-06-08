@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2510e85332e025e",
+        "id": "9246484176a3c37b",
         "type": "tabs",
         "children": [
           {
-            "id": "5dbaca31bce3ce64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arduino/3. 엔코더 모터.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. 엔코더 모터"
-            }
-          },
-          {
-            "id": "6b16cac1bf16f203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arduino/1. L298N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. L298N"
-            }
-          },
-          {
-            "id": "54fea3b67838aa75",
+            "id": "736e31943130880c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +22,21 @@
             }
           },
           {
-            "id": "4083e9e4e9ebc5cd",
+            "id": "0f84c34a1b789e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arduino/3. 엔코더 모터.md",
+                "file": "Arduino/6. PID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 엔코더 모터"
+              "title": "6. PID"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arduino/3. 엔코더 모터.md",
+                "file": "Arduino/6. PID.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. 엔코더 모터 의 개요"
+              "title": "6. PID 의 개요"
             }
           }
         ],
@@ -211,14 +183,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4083e9e4e9ebc5cd",
+  "active": "0f84c34a1b789e86",
   "lastOpenFiles": [
+    "Arduino/5. GM25A-2548E.md",
     "Arduino/4. MPU 6050.md",
-    "5..md",
+    "Arduino/3. 엔코더 모터.md",
+    "Arduino/6. PID.md",
+    "Arduino/7. 강화학습.md",
+    "2025-05-20.md",
+    "image/Pasted image 20250607042845.png",
     "Arduino/1. L298N.md",
     "Arduino/2. L298로 DC 모터 제어하기.md",
-    "Arduino/3. 엔코더 모터.md",
-    "2025-05-20.md",
     "ball and plate/개요.md",
     "image/Pasted image 20250604165013.png",
     "image/Pasted image 20250520150044.png",
@@ -230,7 +205,6 @@
     "Arduino/엔코더 모터.md",
     "image/Pasted image 20250520144700.png",
     "image/Pasted image 20250520144551.png",
-    "image/Pasted image 20250520144129.png",
     "image",
     "ball and plate",
     "Arduino"
